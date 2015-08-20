@@ -461,7 +461,7 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>1173 420 445 103 0 0 3200 1800 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>193 565 606 456 0 0 2560 1440 </string>
+	<string>193 739 606 456 0 0 2560 1440 </string>
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>970 787 620 392 0 0 2560 1440 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
@@ -2520,7 +2520,7 @@
 			<key>Set Local Environment Vars</key>
 			<true/>
 			<key>Shortcut</key>
-			<string>C</string>
+			<string>Q</string>
 			<key>Silence Bell</key>
 			<false/>
 			<key>Smart Cursor Color</key>
@@ -2647,10 +2647,14 @@
 		</dict>
 	</array>
 	<key>NoSyncLastTipTime</key>
-	<real>460646640.47860903</real>
+	<real>461732513.24204898</real>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
+	<key>NoSyncNewWindowOrTabFromTmuxOpensTmux</key>
+	<true/>
+	<key>NoSyncNewWindowOrTabFromTmuxOpensTmux_selection</key>
 	<integer>0</integer>
 	<key>NoSyncTipsToNotShow</key>
 	<array>
@@ -2662,6 +2666,15 @@
 		<string>0004</string>
 		<string>0005</string>
 		<string>0006</string>
+		<string>0007</string>
+		<string>0008</string>
+		<string>0009</string>
+		<string>0010</string>
+		<string>0011</string>
+		<string>0012</string>
+		<string>0013</string>
+		<string>0014</string>
+		<string>0015</string>
 	</array>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
@@ -2731,7 +2744,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-08-04T15:19:09Z</date>
+	<date>2015-08-19T12:55:00Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -2792,7 +2805,7 @@
 	<key>findRegex_iTerm</key>
 	<false/>
 	<key>iTerm Version</key>
-	<string>2.9.20150803-nightly</string>
+	<string>2.9.20150812-nightly</string>
 	<key>kCommandHistoryHasEverBeenUsed</key>
 	<true/>
 </dict>
