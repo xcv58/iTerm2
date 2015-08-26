@@ -290,9 +290,9 @@
 		<key>0x64-0x80000</key>
 		<dict>
 			<key>Action</key>
-			<integer>34</integer>
+			<integer>28</integer>
 			<key>Text</key>
-			<string></string>
+			<string>067EE4C0-B73D-45A7-B28E-9C2F8ABFA2E5</string>
 		</dict>
 		<key>0x9-0x40000</key>
 		<dict>
@@ -403,9 +403,9 @@
 	<key>HotKeyBookmark</key>
 	<string>232E7230-D5D6-4536-8D32-EB2EBBF3C184</string>
 	<key>HotKeyTogglesWindow</key>
-	<true/>
+	<false/>
 	<key>Hotkey</key>
-	<true/>
+	<false/>
 	<key>HotkeyChar</key>
 	<integer>96</integer>
 	<key>HotkeyCode</key>
@@ -425,9 +425,9 @@
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Dropbox/MacHome/iTerm2</string>
+	<string>~/MacHome/iTerm2</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
-	<string>{712, 467}</string>
+	<string>{712, 459}</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
@@ -459,13 +459,11 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>1173 420 445 103 0 0 3200 1800 </string>
+	<string>925 111 445 103 0 0 1440 900 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>193 739 606 456 0 0 2560 1440 </string>
-	<key>NSWindow Frame SUUpdateAlert</key>
-	<string>970 787 620 392 0 0 2560 1440 </string>
+	<string>519 718 606 456 0 0 1920 1200 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 4 2554 1436 0 0 2560 1440 </string>
+	<string>0 0 1920 1200 0 0 1920 1200 </string>
 	<key>NeverWarnAboutShortLivedSessions_067EE4C0-B73D-45A7-B28E-9C2F8ABFA2E5</key>
 	<true/>
 	<key>New Bookmarks</key>
@@ -2647,34 +2645,11 @@
 		</dict>
 	</array>
 	<key>NoSyncLastTipTime</key>
-	<real>461732513.24204898</real>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
-	<true/>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
-	<integer>0</integer>
-	<key>NoSyncNewWindowOrTabFromTmuxOpensTmux</key>
-	<true/>
-	<key>NoSyncNewWindowOrTabFromTmuxOpensTmux_selection</key>
-	<integer>0</integer>
+	<real>462286398.047405</real>
 	<key>NoSyncTipsToNotShow</key>
 	<array>
 		<string>000</string>
 		<string>0000</string>
-		<string>0001</string>
-		<string>0002</string>
-		<string>0003</string>
-		<string>0004</string>
-		<string>0005</string>
-		<string>0006</string>
-		<string>0007</string>
-		<string>0008</string>
-		<string>0009</string>
-		<string>0010</string>
-		<string>0011</string>
-		<string>0012</string>
-		<string>0013</string>
-		<string>0014</string>
-		<string>0015</string>
 	</array>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
@@ -2724,7 +2699,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/xcv58/Dropbox/MacHome/iTerm2</string>
+	<string>/Users/xcv58/MacHome/iTerm2</string>
 	<key>PromptOnQuit</key>
 	<false/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -2733,8 +2708,6 @@
 	<integer>8</integer>
 	<key>RightOption</key>
 	<integer>3</integer>
-	<key>SUAutomaticallyUpdate</key>
-	<true/>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
@@ -2744,7 +2717,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-08-19T12:55:00Z</date>
+	<date>2015-08-26T10:14:27Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SavePasteHistory</key>
@@ -2763,6 +2736,8 @@
 	<true/>
 	<key>SplitPaneDimmingAmount</key>
 	<real>0.21052683889865875</real>
+	<key>SwitchPaneModifier</key>
+	<integer>5</integer>
 	<key>SwitchTabModifier</key>
 	<integer>4</integer>
 	<key>SwitchWindowModifier</key>
