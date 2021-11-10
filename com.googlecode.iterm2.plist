@@ -3643,6 +3643,8 @@
 			<string>kNextWindowPointerAction</string>
 		</dict>
 	</dict>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>PromptOnQuit</key>
 	<false/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -3724,5 +3726,7 @@
 	<true/>
 	<key>kCommandHistoryHasEverBeenUsed</key>
 	<true/>
+	<key>kTurnOffSlowTriggersOfferUserDefaultsKey</key>
+	<false/>
 </dict>
 </plist>
